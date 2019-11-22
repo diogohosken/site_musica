@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#logo{
+	width: 100px;
+}
+
+#fundo{
+	background-color: #673C8C;
+	padding-bottom: 100px;
+}
+
+#sessao1{
+	background-image: url('../images/black-man-posing/posing.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 760px;
+}
+
+#sessaoSobre{
+	height: 760px;
+}
+
+#sessaoMusicos{
+	background-image: url('../images/vinil/vinil.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 760px;
+	color: #FFFFFF;
+}
+
+#sessaoGaleria{
+	background-image: url('../images/crownd/crownd.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 760px;
+	color: #FFFFFF;
+}
+
+#sessaoContato{
+	height: 760px;
+	background-color: #FFFFFF;
+}
+
+
+#rodape{
+	height: 534px;
+	background-image: linear-gradient(-155deg, #940B21, #5D1C67);
+}
