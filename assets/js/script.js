@@ -9,6 +9,7 @@ $(function(){
 		else{
 			$('#menuNav').fadeOut();
 			$('#menuNav').addClass('fixed-top');
+			$('#menuNav').css('background-color', '#000000');
 		}
 
 	});
